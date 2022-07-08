@@ -249,7 +249,7 @@
 }
 
 .product__info-sale{
-    background-image: url("./assets/img/flash_sale.jpg");
+    background-image: url("/assets/img/flash_sale.jpg");
     background-size: cover;
     height: 45px;
 }
